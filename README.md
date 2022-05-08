@@ -4,3 +4,6 @@ This python program takes screenshots of the websites given in the excel and sav
 ## Requirements
 You need to install python, selenium, chromedriver(right version) and pandas.
 If you have any feedback about the code please DM me via [linkedin](https://www.linkedin.com/in/semi) or [twitter](https://twitter.com/semi_venturero). 
+<p align="center">
+  <img width="600" src="https://github.com/venturero/websitess/blob/main/images/site-ss2.gif">
+</p>
