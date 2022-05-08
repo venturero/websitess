@@ -7,4 +7,4 @@ If you have any feedback about the code please DM me via [linkedin](https://www.
 <p align="center">
   <img width="600" src="https://github.com/venturero/websitess/blob/main/images/site-ss2.gif">
 </p>
-[![Youtube video of the code](https://img.youtube.com/vi/Pq2Rjt4Rr9w/0.jpg)](https://www.youtube.com/watch?v=Pq2Rjt4Rr9w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Pq2Rjt4Rr9w/0.jpg)](https://www.youtube.com/watch?v=Pq2Rjt4Rr9w)]
