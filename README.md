@@ -8,3 +8,5 @@ If you have any feedback about the code please DM me via [linkedin](https://www.
   <img width="600" src="https://github.com/venturero/websitess/blob/main/images/site-ss2.gif">
 </p>
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Pq2Rjt4Rr9w/0.jpg)](http://www.youtube.com/watch?v=Pq2Rjt4Rr9w "Video Title")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
